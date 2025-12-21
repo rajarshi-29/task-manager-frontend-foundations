@@ -6,6 +6,12 @@ This project was created to **lock JavaScript and frontend fundamentals** before
 
 ---
 
+## 🔗 Live Demo
+
+https://rajarshi-29.github.io/task-manager-frontend-foundations/
+
+---
+
 ## 🎯 Purpose
 
 - Strengthen JavaScript fundamentals

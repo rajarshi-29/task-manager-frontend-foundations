@@ -47,7 +47,6 @@ main {
   border-bottom: 1px solid #ddd;
 }
 
-/* Buttons */
 button {
   background: #007bff;
   color: #fff;
@@ -61,7 +60,6 @@ button:hover {
   opacity: 0.95;
 }
 
-/* Responsive tweaks */
 @media (max-width: 480px) {
   body {
     padding: 10px;
